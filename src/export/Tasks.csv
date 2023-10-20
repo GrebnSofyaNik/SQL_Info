@@ -1,0 +1,9 @@
+Title,ParentTask,MaxXP
+CPP1_s21_matrix+,,300
+CPP2_s21_containers,CPP1_s21_matrix+,350
+CPP3_SmartCalc_v2.0,CPP2_s21_containers,600
+A1_Maze,CPP3_SmartCalc_v2.0,300
+CPP4_3DViewer_v2.0,CPP3_SmartCalc_v2.0,750
+A2_SimpleNavigator_v1.0,A1_Maze,400
+CPP5_3DViewer_v2.1,CPP4_3DViewer_v2.0,600
+A3_Parallels,A2_SimpleNavigator_v1.0,300
